@@ -4,6 +4,7 @@
 
 <p align="center">
   <b>AI-powered bug bounty hunting — recon to report, in your terminal.
+    CA: 0xf5EbCDFC9F56de860fAe8629CB4b5346c618f32B
   </b>
   <br/>
   <a href="#what-is-this">What Is This</a>
